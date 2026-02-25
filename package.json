@@ -1,0 +1,21 @@
+{
+  "name": "petshop",
+  "version": "1.0.0",
+  "description": "Projeto utilizado como base de ensino e treinamento, dos cursos de **Informática**,  \r principalmente de nível técnico - **IFSP**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claraarmani/PetShop.git"
+  },
+  "keywords": [],
+  "author": "Clara dos Santos Armani",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/claraarmani/PetShop/issues"
+  },
+  "homepage": "https://github.com/claraarmani/PetShop#readme"
+}
